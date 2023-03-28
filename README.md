@@ -5,6 +5,7 @@ This project aims at providing banking facilities to small deemed to be banks an
 Bankofy is a website that allows rural people to perform basic banking transactions, such as depositing and withdrawing money, checking their account balance, and transferring money. It is a secure and user-friendly platform that can be accessed from any internet-connected device.
 
 Site is live at  https://nee-shar.github.io/BankOFY/
+Product Description and Demo at https://youtu.be/kKiqJXjjFR8
 
 ![Screenshot 2023-03-28 072042](https://user-images.githubusercontent.com/99169026/228106328-32380262-5d2b-41c7-bb72-49c85c959eab.jpg)
 ![Screenshot 2023-03-28 072207](https://user-images.githubusercontent.com/99169026/228106331-9e681691-83d5-4dfe-a895-fe09dc391c6b.jpg)
