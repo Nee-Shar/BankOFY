@@ -5,6 +5,9 @@ This project aims at providing banking facilities to small deemed to be banks an
 Bankofy is a website that allows rural people to perform basic banking transactions, such as depositing and withdrawing money, checking their account balance, and transferring money. It is a secure and user-friendly platform that can be accessed from any internet-connected device.
 
 Tech Stack Used : HTML , CSS , Bootstrap , Firebase for auth , Firestore for db.
+
+
+
 Animations : https://lottiefiles.com/
 
 
