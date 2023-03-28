@@ -5,8 +5,9 @@ This project aims at providing banking facilities to small deemed to be banks an
 
 Site is live at  https://nee-shar.github.io/BankOFY/
 
-![Screenshot (100)](https://user-images.githubusercontent.com/99169026/228105393-52fb9329-01f8-4567-b58b-d4684af1a528.png)
-![Screenshot (99)](https://user-images.githubusercontent.com/99169026/228105402-bb6f7540-b050-4570-8369-abd4fd4eff5a.png)
-![Screenshot (98)](https://user-images.githubusercontent.com/99169026/228105414-fb5bcca4-55ba-4c2e-9f2d-53e3cf7a22e8.png)
-![Screenshot (101)](https://user-images.githubusercontent.com/99169026/228105427-65d468d4-eef2-4723-bc6e-3f59b2feed1a.png)
-![Screenshot (104)](https://user-images.githubusercontent.com/99169026/228105435-be3ec4e5-e436-4615-9294-47ff28553a4f.png)
+![Screenshot 2023-03-28 072042](https://user-images.githubusercontent.com/99169026/228106328-32380262-5d2b-41c7-bb72-49c85c959eab.jpg)
+![Screenshot 2023-03-28 072207](https://user-images.githubusercontent.com/99169026/228106331-9e681691-83d5-4dfe-a895-fe09dc391c6b.jpg)
+![Screenshot 2023-03-28 072137](https://user-images.githubusercontent.com/99169026/228106345-fe790c34-c226-496d-978e-58b13d9afb91.jpg)
+![Screenshot 2023-03-28 072013](https://user-images.githubusercontent.com/99169026/228106350-c4f66175-4259-4fd9-9cd2-90f604d822e6.jpg)
+![Screenshot 2023-03-28 071857](https://user-images.githubusercontent.com/99169026/228106354-198f003b-90e6-495b-87ab-da5cc193bdab.jpg)
+![Screenshot 2023-03-28 071930](https://user-images.githubusercontent.com/99169026/228106362-4a47b2a4-983d-49d2-aaa6-d991881289f4.jpg)
