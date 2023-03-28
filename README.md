@@ -1,7 +1,8 @@
 # BankOFY
-This is made as an official entry in Hackathon organised on DevFolio by team of Neeraj Sharma, Aman Muhal and Aniket Kumar. (CodeHunt)
+This is made as an official entry in Hackathon organised on DevFolio.This is made by the team of Neeraj Sharma, Aman Muhal and Aniket Kumar. (CodeHunt)
 
 This project aims at providing banking facilities to small deemed to be banks and help grameen users to avail banking facilities easily.
+Bankofy is a website that allows rural people to perform basic banking transactions, such as depositing and withdrawing money, checking their account balance, and transferring money. It is a secure and user-friendly platform that can be accessed from any internet-connected device.
 
 Site is live at  https://nee-shar.github.io/BankOFY/
 
